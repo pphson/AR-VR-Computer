@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - ram 1 socket
+  - ram 2 socket
+  - ram 3 socket
+  - ram 4 socket
+  - gpu socket
+  - quat main socket
+  - nap thung
   - 
   - 
   - 
